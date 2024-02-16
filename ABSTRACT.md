@@ -1,10 +1,10 @@
 The **QHDP: QUT-HIA-DAF Polytunnel Dataset** was collected in Australia under direct sunlight in a field situation. All cultivars in the dataset consist of three classes: *green*, *mixed*, and *red*. 
 
-Note, similar **QHDF: QUT-HIA-DAF Field Dataset** datasets are also available on the [DatasetNinja.com](https://datasetninja.com/):
+Note, similar **QHDP: QUT-HIA-DAF Field Dataset** datasets are also available on the [DatasetNinja.com](https://datasetninja.com/):
 
 - [BUP19: Sweet Pepper Dataset](https://datasetninja.com/bup19)
 - [BUP20: Sweet Pepper Dataset](https://datasetninja.com/bup20)
-- [QHDF: QUT-HIA-DAF Field Dataset](https://datasetninja.com/qutf)
+- [QHDF: QUT-HIA-DAF Field Dataset](https://datasetninja.com/qudf)
 
 ## Motivation
 

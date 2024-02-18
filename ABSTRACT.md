@@ -4,7 +4,7 @@ Note, similar **QHDP: QUT-HIA-DAF Field Dataset** datasets are also available on
 
 - [BUP19: Sweet Pepper Dataset](https://datasetninja.com/bup19)
 - [BUP20: Sweet Pepper Dataset](https://datasetninja.com/bup20)
-- [QHDF: QUT-HIA-DAF Field Dataset](https://datasetninja.com/qudf)
+- [QHDF: QUT-HIA-DAF Field Dataset](https://datasetninja.com/qhdf)
 
 ## Motivation
 
